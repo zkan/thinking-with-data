@@ -1,2 +1,1 @@
-# thinking-with-data
-Thinking with Data
+# Thinking with Data
